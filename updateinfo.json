@@ -1,6 +1,6 @@
 {
 	"general_accountuseable": false,
-	"general_accountuseable_error_msg": "Momenteel zijn account uitgeschakkelt in jou regio"
+	"general_accountuseable_error_msg": "Momenteel zijn account uitgeschakkelt in jou regio",
 	"update_versionCode": 10,
 	"update_level": 1,
 	"update_cancellable": false,
