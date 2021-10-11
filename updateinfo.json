@@ -1,7 +1,7 @@
 {
 	"general_accountuseable": false,
 	"update_versionCode": 10,
-	"update_level": 3,
+	"update_level": 2,
 	"update_cancellable": false,
 	"update_package": "Baroscan",
 	"update_url": "https://github.com/p32929/AndroidAppUpdater"
