@@ -1,5 +1,5 @@
 {
-	"general_accountuseable": false,
+	"general_accountuseable": true,
 	"general_accountuseable_error_msg": "Currently your region is banned from using accounts, please try again later",
 	"update_versionCode": 10,
 	"update_level": 1,
